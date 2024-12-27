@@ -1,14 +1,22 @@
-# akara-z.github.io
-Merhaba 👋
-Ben bir lise öğrencisiyim ve şu anda yapay zeka (AI) üzerine çalışarak kendimi geliştirmeye çalışıyorum. Bu alandaki en son gelişmeleri takip etmeyi ve bu konuda projeler geliştirmeyi hedefliyorum.
+# akara-z
+Hi 👋
 
-📚 Hakkımda
-🎓 Eğitim Durumu: Lise öğrencisi
-🌱 Şu anda öğrendiğim şeyler: Yapay zeka ve makine öğrenimi temel kavramları
-🤖 İlgi Alanlarım: Yapay zeka, makine öğrenimi, veri analizi
-📈 Hedeflerim: Yapay zeka projeleri geliştirmek, algoritmalar hakkında daha fazla bilgi edinmek ve AI topluluğuna katkıda bulunmak.
+I'm a high school student currently learning about Artificial Intelligence (AI). I'm passionate about staying updated with the latest developments in AI and aim to develop projects in this field as I continue to learn.
 
-🧠 Öğrenmeye Başladığım Konular
-Yapay Zeka: Temel algoritmalar, yapay sinir ağları
-Makine Öğrenimi: Denetimli ve denetimsiz öğrenme
-Veri Bilimi: Veri analizi ve görselleştirme
+📚 About Me
+
+-🎓 Education: High school student
+
+-🌱 Currently learning: Fundamentals of AI and Machine Learning
+
+-🤖 Interests: Artificial Intelligence, Machine Learning, Data Analysis
+
+-📈 Goals: To build AI projects, dive deeper into algorithms, and contribute to the AI community.
+
+🧠 Topics I'm Exploring
+
+-Artificial Intelligence: Basic algorithms, Neural Networks
+
+-Machine Learning: Supervised and Unsupervised learning
+
+-Data Science: Data analysis and visualization
